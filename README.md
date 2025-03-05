@@ -8,7 +8,8 @@ Personalized Content for E-Learning Platforms The tool generates custom educatio
 
 Content Curation for News & Media BlogMaster automates news article and editorial creation, ensuring content is accurate, relevant, and engaging, allowing journalists to focus on in-depth reporting.
 
-image
+image![image](https://github.com/user-attachments/assets/e47e8e2d-5817-4ca9-be4c-fef208a4e36f)
+
 
 Project Flow:
 
