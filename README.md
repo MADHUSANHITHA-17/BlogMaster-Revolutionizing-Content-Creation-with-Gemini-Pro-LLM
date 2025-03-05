@@ -1,5 +1,13 @@
 # BlogMaster-Revolutionizing-Content-Creation-with-Gemini-Pro-LLM
 
+# Deployment Link
+
+# Video Link
+https://drive.google.com/file/d/1LMoWVoP00KzJRzekFi4WJ4_AE_AMBNDk/view?usp=sharing
+
+# Document Link
+https://drive.google.com/file/d/1zXGGqHz8bVRA-8_vD3X7LkC9eF1njDmf/view?usp=sharing
+
 Project Overview: BlogMaster leverages Gemini Pro LLM to automate high-quality blog creation, reducing manual effort for content creators, marketers, and businesses. It generates engaging, audience-tailored content while ensuring coherence, context, and style, making content creation more efficient.
 
 Scenarios: Automated Content for Marketing Agencies BlogMaster helps marketing agencies automate blog, article, and social media content creation, ensuring brand consistency and allowing marketers to focus on strategy and engagement.
